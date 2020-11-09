@@ -18,7 +18,7 @@ track of its own time using state.
 Go on and run the app with `npm start`. The app is already partially working,
 but there are some changes we need to make. By clicking 'Add Timer', timers will
 get added to the page, but stay at `0`.
-
+ 
 In order to get our timers working properly, we will need to use component
 lifecycle methods to handle initiating and clearing an interval.
 
